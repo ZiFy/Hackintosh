@@ -2,7 +2,7 @@
 record my diy Hackintosh
 
 下面是我的第一套配置
-[CPU:AMD 3700x+GPU:AMD 5700
+[主板B450M迫击炮+CPU:AMD 3700x+GPU:AMD 5700
 使用OpenCore引导EFI](./EFIs/B450_3700x_5700)
 
 | Item | Product | Desc | Size |
