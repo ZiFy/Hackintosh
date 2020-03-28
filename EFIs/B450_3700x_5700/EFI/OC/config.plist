@@ -1427,17 +1427,17 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02836104GUJG36CB</string>
+			<string>C02913501CDLNV9FB</string>
 			<key>ROM</key>
 			<data>jIWQare+</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>iMacPro1,1</string>
+			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02XC06EHX87</string>
+			<string>C02YH0FVJV3Q</string>
 			<key>SystemUUID</key>
-			<string>F35FA36F-B367-4AFC-B8E2-832B15D3D4A5</string>
+			<string>70FF7877-F851-49A0-8F62-4BDF4D1E6342</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
